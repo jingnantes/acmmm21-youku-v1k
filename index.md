@@ -17,6 +17,7 @@ You can download the database via this link:
 
 
 # Contact
-You can reach the maintainers here:  
+For any questions, you can reach the maintainers here:  
+
 Dr. Jing LI,  jing.li.univ@gmail.com, lj225205@alibaba-inc.com  
 Dr. Zhaohui CHE, lvjie.czh@alibaba-inc.com
