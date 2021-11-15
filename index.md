@@ -13,7 +13,7 @@ Jiahua Xu, Jing Li, Xingguang Zhou, Wei Zhou, Baichao Wang, Zhibo Chen, "Percept
 Please note that this database is only public available for research and academic purpose.  
 For any commercial or other usage, please contact us to ask for the permission.  
 
-You can download the database via this link:  
+You can download the database via [this link](https://docs.google.com/forms/d/e/1FAIpQLSdNoBIrs1WL-Ypb4f1V2FApxU5Uys0Mvmf-j1rqh0WZt0_RRA/viewform?vc=0&c=0&w=1&flr=0). Before downloading, you have to fill out some basic information and promise for only non-commercial usage.
 
 
 # Contact
