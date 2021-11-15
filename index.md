@@ -2,7 +2,7 @@
 
 Welcome to Youku video quality assessment database, which contains more than 1000 UGC/PGC/OGC video sequences.  
 
-If you are interested in this work, please check our paper at ACM MM 2021: https://dl.acm.org/doi/10.1145/3474085.3475486  
+If you are interested in this work, please check our paper at [ACM MM 2021](https://dl.acm.org/doi/10.1145/3474085.3475486) 
 
 If you are using this database for any publications, please DO consider to cite our work as follows:  
 
